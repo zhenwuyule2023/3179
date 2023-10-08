@@ -1,4 +1,4 @@
-Entity,Code,Year,"DALYs from depressive disorders per 100,000 people in, both sexes aged age-standardized","DALYs from schizophrenia per 100,000 people in, both sexes aged age-standardized","DALYs from bipolar disorder per 100,000 people in, both sexes aged age-standardized","DALYs from eating disorders per 100,000 people in, both sexes aged age-standardized","DALYs from anxiety disorders per 100,000 people in, both sexes aged age-standardized"
+Country,Code,Year,"DALYs from depressive disorders","DALYs from schizophrenia","DALYs from bipolar disorder","DALYs from eating disorders","DALYs from anxiety disorders"
 Afghanistan,AFG,1990,895.22565,138.24825,147.64412,26.471115,440.33
 Afghanistan,AFG,1991,893.88434,137.76122,147.56696,25.548681,439.47202
 Afghanistan,AFG,1992,892.34973,137.0803,147.13086,24.637949,437.60718
