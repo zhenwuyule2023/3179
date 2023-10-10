@@ -1,0 +1,43 @@
+﻿Age,Entity,Year,Rate%
+Ages 13 -19,Africa,2020,14.229228
+Ages 20-29,Africa,2020,22.26465
+Ages <13,Africa,2020,1.2718359
+Ages 30-39,Africa,2020,16.80309
+Ages ≥40,Africa,2020,2.7064757
+Don't know/Refused,Africa,2020,42.724724
+Ages 13 -19,Asia,2020,9.628078
+Ages 20-29,Asia,2020,23.403633
+Ages <13,Asia,2020,7.7953706
+Ages 30-39,Asia,2020,12.663021
+Ages ≥40,Asia,2020,9.983976
+Don't know/Refused,Asia,2020,36.525925
+Ages 13 -19,Europe,2020,22.210781
+Ages 20-29,Europe,2020,22.034777
+Ages <13,Europe,2020,9.083381
+Ages 30-39,Europe,2020,7.6283197
+Ages ≥40,Europe,2020,24.53128
+Don't know/Refused,Europe,2020,14.511458
+Ages 13 -19,High-income countries,2020,24.484507
+Ages 20-29,High-income countries,2020,10.832585
+Ages <13,High-income countries,2020,2.473921
+Ages 30-39,High-income countries,2020,16.975899
+Ages ≥40,High-income countries,2020,16.11568
+Don't know/Refused,High-income countries,2020,29.117413
+Ages 13 -19,Lower-middle-income countries,2020,8.485406
+Ages 20-29,Lower-middle-income countries,2020,26.288944
+Ages <13,Lower-middle-income countries,2020,8.800553
+Ages 30-39,Lower-middle-income countries,2020,8.428943
+Ages ≥40,Lower-middle-income countries,2020,7.3487206
+Don't know/Refused,Lower-middle-income countries,2020,40.647434
+Ages 13 -19,Upper-middle-income countries,2020,14.341692
+Ages 20-29,Upper-middle-income countries,2020,16.935555
+Ages <13,Upper-middle-income countries,2020,6.5811706
+Ages 30-39,Upper-middle-income countries,2020,18.964176
+Ages ≥40,Upper-middle-income countries,2020,18.10031
+Don't know/Refused,Upper-middle-income countries,2020,25.077103
+Ages 13 -19,World,2020,11.454613
+Ages 20-29,World,2020,22.213495
+Ages <13,World,2020,7.5053473
+Ages 30-39,World,2020,12.515957
+Ages ≥40,World,2020,11.407292
+Don't know/Refused,World,2020,34.903294
