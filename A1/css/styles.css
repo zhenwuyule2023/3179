@@ -1,0 +1,55 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+    line-height: 1.6;
+   
+}
+
+body {
+    /* Modern gradient background */
+    background: linear-gradient(to bottom right, #34e7e4, #0f3443);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.page {
+    
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    
+      
+}
+h1, h2 {
+    border-bottom: 2px solid #b3c4ed;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.vis-container {
+    
+    margin: 40px 0;  /* 添加顶部和底部的边距 */
+}
+
+.pure-g {
+    margin-bottom: 50px; /* Spacing between the sections */
+    position: relative;  /* For potential elements and effects within sections */
+}
+
+.pure-u-1-1 {
+    background-color: #fff;
+    padding: 2em;
+    border-radius: 10px;  /* Rounded corners */
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;    
+}
+
+
+.pure-g:hover .pure-u-1-1 {
+    transform: scale(1.02);  /* Slight zoom on hover */
+}
